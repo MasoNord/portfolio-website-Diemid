@@ -1,5 +1,14 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/*Here is going to be entire styling of our application*/ 
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family:'Open Sans', sans-serif;
+}
+
+
+
+
 
 
