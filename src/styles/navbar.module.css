@@ -5,10 +5,10 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 189;
+    padding-top: 169;
     z-index: 2;
     margin: 0 10%;
-    font-family: 'Open Sans', sans-serif;
+    font-family: var(--font-open-scans);
 }
 
 .title {
@@ -69,5 +69,10 @@
         );
         padding: 24px 33px;
         box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+    }
+
+    .menuOpen {
+        display: flex;
+        z-index: 1;
     }
 }
