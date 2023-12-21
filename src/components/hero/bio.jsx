@@ -10,13 +10,11 @@ export const Bio = () => {
                 Hi, I'm Diemid
             </h1>
             <p className={styles.description}>
-                Diemid is a self-taught software developer and computer science enthusiast.<br />
-                Diemid specializes in building a backend for web sites using cutting-edge technologies and tools.<br />
-                All his projects are built from the ground up, from planning and designing all the way down to solving real-world problems with code.<br />
-                He is a passionate programmer who enjoys using his skills to build things that make the world a better place. <br />
-                Reach out if you'd like to learn more ! <br />
-                <a href='trotf233@gmail.com' className={styles.contactBtn}>Contract Me </a>
+                I'm a software developer and computer science enthusiast.<br />
+                Specialize in building a backend using Java and Spring<br />
+                Reach out if you'd like to learn more!<br />
             </p>
+            <a href='trotf233@gmail.com' className={styles.contactBtn}>Contract Me </a>
         </div>
         <img src = {myface} alt = "My face" className={styles.heroImg}/>
         <div className= {styles.topBlur}/>
