@@ -12,7 +12,8 @@ This is my portfolio website with a modern and minimalistic style
 - JavaScript
 - React
 - Vite
-- Tailwind CSS
+- CSS
+- Figma
 
 # License
 - [MIT Licence](https://opensource.org/license/mit/)
