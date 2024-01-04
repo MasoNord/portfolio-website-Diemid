@@ -5,14 +5,14 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 169;
+    padding-top: 61;
     z-index: 2;
     margin: 0 10%;
     font-family: var(--font-open-scans);
 }
 
 .title {
-    font-size: 30px;
+    font-size:30px;
     font-weight: 600;
     text-decoration: none;
     color: var(--color-text)
@@ -32,6 +32,10 @@
     font-size: 25px;
     color: var(--color-text);
     text-decoration: none;
+}
+
+.menuBtn {
+    display: none;
 }
 
 @media screen and (max-width: 830px) {
