@@ -14,7 +14,7 @@ export const Bio = () => {
                 Specialize in building a backend using Java and Spring<br />
                 Reach out if you'd like to learn more!<br />
             </p>
-            <a href='trotf233@gmail.com' className={styles.contactBtn}>Contract Me </a>
+            <a href='trotf233@gmail.com' className={styles.contactBtn}>Contact Me </a>
         </div>
         <img src = {myface} alt = "My face" className={styles.heroImg}/>
         <div className= {styles.topBlur}/>
