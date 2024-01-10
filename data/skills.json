@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Java",
+        "image": "/assets/experience/skills/icon-java.png"
+    },
+    {
+        "title": "Spring",
+        "image": "/assets/experience/skills/icon-spring-boot.png"
+    },
+    {
+        "title": "Docker",
+        "image": "/assets/experience/skills/icon-docker.png"
+    },
+    {
+        "title": "PostgreSQL",
+        "image": "/assets/experience/skills/icon-postgresql.png"
+    },
+    {
+        "title": "MySQL",
+        "image": "/assets/experience/skills/icon-mysql.png"
+    }
+]
