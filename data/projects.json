@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Get On Time (under development)",
+        "imageSrc": "/assets/projects/project.png",
+        "description": "This is an implementation of a backend for delivery services",
+        "skills": ["Java", "Spring", "PostgreSQL", "Hibernate"],
+        "source": "https://github.com/MasoNord/Get-On-Time"
+    },
+    {
+        "title": "redDb (under development)",
+        "imageSrc": "/assets/projects/project.png",
+        "description": "RedDb is an implementation of REDIS in Java programming language.",
+        "skills": ["Java"],
+        "source": "https://github.com/MasoNord/redDB"
+    }
+]
